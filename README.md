@@ -1,12 +1,11 @@
-# Full Stack Software Engineer
-
+#👋 Hi there! I'm Bui Si Khoa
+I’m a recent graduate with a major in E-commerce from the University of Information Technology, VNU–HCM City.  I have a genuine passion for programming and continuously strive to improve my craft.
+  
 ## About me
-- I’m a recent graduate with a major in E-commerce from the University of Information Technology, VNU–HCM City. 
-- I’m a careful, honest, and responsible person who thrives under pressure and can work independently. I have a genuine passion for programming and continuously strive to improve my craft.
-
-## 🔭 What I’m Currently Doing
-- Building projects that integrate both frontend and backend technologies
-- Exploring modern toolchains and best practices for scalable web applications
+- 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU
+- 💻 Experienced in full-stack web development
+- 🌱 Always learning and exploring new technologies
+- 📈 Seeking internship opportunities in innovative environments
 
 ## 💻 Skills
 - **Language:** Python, C++
