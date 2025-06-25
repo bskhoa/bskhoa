@@ -17,8 +17,6 @@
 ## 🌱 I’m Learning
 - Frameworks like React, Vue 
 - Backend environments such as Node.js with Express or Python with Flask/Django  
-- Database systems (MySQL, PostgreSQL, MongoDB)  
 - CI/CD, Docker, and cloud deployment (AWS, Azure, GCP)
 
-🚀 Feel free to explore my repositories and reach out if you’d like to collaborate! 
 📫 Reach out to me at: bskhoa.work@gmail.com
