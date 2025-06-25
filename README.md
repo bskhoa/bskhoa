@@ -1,8 +1,8 @@
-#👋 Hi there! I'm Bui Si Khoa
+# 👋 Hi there! I'm Bui Si Khoa
 
 I’m a recent graduate with a major in E-commerce from the University of Information Technology, VNU–HCM City.  I have a genuine passion for programming and continuously strive to improve my craft.
   
-## About me
+## 👨‍💻 About me
 
 - 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU
 - 💻 Experienced in full-stack web development
