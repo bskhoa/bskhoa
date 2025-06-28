@@ -4,10 +4,10 @@ I’m a recent graduate with a major in E-commerce from the University of Inform
   
 ## 👨‍💻 About me
 
-- 🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU
-- 💻 Experienced in full-stack web development
-- 🌱 Always learning and exploring new technologies
-- 📈 Seeking opportunities in innovative environments
+🎓 Currently graduating in Ecommerce - Information System at HCMUIT-VNU  
+💻 Experienced in full-stack web development  
+🌱 Always learning and exploring new technologies  
+📈 Seeking opportunities in innovative environments  
 
 📫 Reach out to me at: bskhoa.work@gmail.com
 
